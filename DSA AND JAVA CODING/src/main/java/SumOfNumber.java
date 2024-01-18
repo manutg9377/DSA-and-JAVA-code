@@ -9,7 +9,7 @@ Input 2: N = 2
 Output 2: 2
 Constraints:
 1 <= N <= 105
-*/
+ */
 
 public class SumOfNumber {
         static int solve(int n){

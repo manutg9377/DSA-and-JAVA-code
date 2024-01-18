@@ -9,7 +9,7 @@ Input: N = 5
 Output: 120
 
 Constraints:
-1 <= N <= 104*/
+1 <= N <= 104 */
 
 
 public class Factorial {
