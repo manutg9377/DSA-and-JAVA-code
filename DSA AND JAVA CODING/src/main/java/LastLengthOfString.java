@@ -15,3 +15,11 @@ public class LastLengthOfString{
         return length;
     }
 }
+
+//class Solution {
+//    public int lengthOfLastWord(String s) {
+//        int count=0;
+//        String ss[]=s.split(" ");
+//        return ss[ss.length-1].length();
+//    }
+//}
